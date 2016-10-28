@@ -1,3 +1,4 @@
-# ISU-ComSci-228-Fall-2016-Projects
+# ISU-ComSci-228-Fall-2016-Project1
 
-This repository is created as a place to store all of my projects for my Iowa State University Computer Science 228 course.
+This repository is created to store my first project for 228.
+This project is a predetor-prey simulation that instantiates a grid with several life forms within it and then goes through several life cycles.
